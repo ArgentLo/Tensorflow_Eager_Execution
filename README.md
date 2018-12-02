@@ -6,6 +6,6 @@
 
 ----
 
-Thanks for the extremely intuitive and concise introduction: [*Handbook of TensorFlow Based on Eager Execution*](https://tf.wiki/#) (which saved me hours of time).
+Thanks for the extremely intuitive and concise introduction: [*Handbook of TensorFlow Based on Eager Execution*](https://tf.wiki/#) (which literally saved me hours of time!!!!!!!).
 
 check out the PDF in the Git.
