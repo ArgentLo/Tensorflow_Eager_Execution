@@ -1,4 +1,4 @@
-# TensorFlow_Eager_Execution_Learning
+# TensorFlow_Eager_Execution
 
 *(saved for **personal reference**)*
 
